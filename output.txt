@@ -1,0 +1,4 @@
+The Fibonacci of 12 is 144
+Error: Invalid input.
+Error: Invalid input.
+Error: Fibonacci is not defined for negative numbers.
